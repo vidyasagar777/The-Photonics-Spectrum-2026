@@ -67,7 +67,7 @@
   const SPEAKERS = [
     { name: "Dr. Avinash Upadhyay",  role: "Research Associate NSUT", photo: "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=kUR345QAAAAJ&citpid=9" },
     { name: "Dr. Neeraj Goel",  role: "Assistant Professor NSUT", photo: "https://nsut.ac.in/sites/default/files/styles/node_image_/public/2021-07/ngl_0.jpg?itok=MNq3Mky6" },
-    { name: "Shri. Vivek Narayan",  role: "Retd.DDG (DS), DoT", photo: "https://broadbandindiaforum.in/wp-content/uploads/2023/04/Vivek-Narayan.jpg" },
+    { name: "Vivek Narayan",  role: "Retd.DDG (DS), DoT", photo: "https://broadbandindiaforum.in/wp-content/uploads/2023/04/Vivek-Narayan.jpg" },
     { name: "Dr. Jhonattan Cordoba Ramirez",  role: "Department of Electronic Engineering - Universidade Federal de Minas Gerais (UFMG)", photo: "https://www.cpdee.ufmg.br/~jcordoba/images/image.jpg" },
     { name: "Dr. Nitesh Mudgal",  role: "Associate Professor Poornima College of Engineering, Jaipur", photo: "https://www.poornima.org/uploads/team/1716897839.jpg" },
     { name: "Dr. Deepak Punetha",  role: "MNIT Allahabad Prayagraj", photo: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTO8MLoZzAryQxHG0TtjtuFYn90x07ASDz7mtfZeDS3QQiTiDTkxOs8V9OS3gqZdyStiX-kPtQIQ0FW1ZudYu2p-vPzY8vIxCcTIQ2rl953nB21ZtZ3IspZuQxZ5qAToZ6TSTY4UekvwRK-GX9EUyV5QuwdaiGP_kLmz8TrIicutuqxhIJrEAMXxiu/w226-h283/52259-255x319.jpg" },
