@@ -166,6 +166,7 @@ const STUDENT_VOLUNTEERS = [
   { name: "Sanjeev Kumar", role: "PhD Student NSUT", photo: "images/sanjeev.jpeg" },
   { name: "Chanchal Nigam", role: "PhD Student NSUT", photo: "images/chanchal.jpeg" },
   { name: "Shashwat Saxena", role: "PhD Student NSUT", photo: "images/sash.jpeg" },
+  { name: "Hema Garg", role: "PhD Student NSUT", photo: "images/hema.jpeg" },
 ];
 
 const volunteersGrid = document.getElementById('studentVolunteersGrid');
